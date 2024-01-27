@@ -1,6 +1,6 @@
 # 🏂 US Population Dashboard
 
-A dashboard web app template built in Python using Streamlit.
+A dashboard web app template built in Python using Streamlit. [Youtube](https://www.youtube.com/watch?v=HKoOBiAaHGg)
 
 ## Demo App
 
